@@ -1,0 +1,8 @@
+{
+  "Generator-3": {"x":9, "y": 0, "w": 22, "h": 30},
+  "Windmill-2": {"x":11, "y": 35, "w": 18, "h": 19},
+  "_META": {
+    "image_path": ".\/..\/..\/Sprites And Tiles.png",
+    "version": "v0.6.1"
+  }
+}
